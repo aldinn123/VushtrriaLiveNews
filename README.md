@@ -1,2 +1,3 @@
 # VushtrriaLiveNews
-This page is going to be all about Vushtrrias news 
+Kjo faqe do te ket gjithqka rret vushtrris
+
